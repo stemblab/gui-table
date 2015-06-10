@@ -1,0 +1,10 @@
+[
+    "http://handsontable.com/dist/handsontable.full.js",
+    "main.html",
+    "main.css",
+    "table.css",
+    "sheet.coffee",
+    "component.coffee",
+    "table.coffee",
+    "main.coffee"
+]
