@@ -3,8 +3,8 @@
     "main.html",
     "main.css",
     "table.css",
-    "sheet.coffee",
-    "component.coffee",
+    "http://stemblab.github.io/gui/sheet.coffee",
+    "http://stemblab.github.io/gui/component.coffee",
     "table.coffee",
     "main.coffee"
 ]
